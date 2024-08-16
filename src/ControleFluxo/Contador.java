@@ -15,7 +15,7 @@ public class Contador {
             contar(parametroUm, parametroDois);
 
         }catch(ParametrosInvalidosException exception){
-            System.err.println("PARAMETROS INVALIDOS \n-------------------- \nO segundo parametro: " + parametroDois + " deve ser maior do que o primeiro.");
+            System.err.println("PARAMETROS INVALIDOS \n---------------------- \nO segundo parametro: " + parametroDois + " deve ser maior do que o primeiro.");
         }
         //Para fechar o Scanner por boas praticas (Apesar de rodar, apresenta "erro" linha 5 em "terminal")
         terminal.close();
