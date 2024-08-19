@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "verificarCombo",
+            "request": "launch",
+            "mainClass": "DesafioTelefonia.verificarCombo",
+            "projectName": "Desafios Java_ac95149f"
+        },
+        {
+            "type": "java",
+            "name": "Telecomunicacao",
+            "request": "launch",
+            "mainClass": "DesafioTelefonia.Telecomunicacao",
+            "projectName": "Desafios Java_ac95149f"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Iniciar o Chrome em relação a localhost",
