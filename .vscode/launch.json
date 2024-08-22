@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UsuarioIphone",
+            "request": "launch",
+            "mainClass": "DesafioPOO_Iphone.APPs_Iphone.UsuarioIphone",
+            "projectName": "Desafios Java_ac95149f"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioIphone",
+            "request": "launch",
+            "mainClass": "DesafioPOO_Iphone.UsuarioIphone",
+            "projectName": "Desafios Java_ac95149f"
+        },
+        {
+            "type": "java",
             "name": "verificarCombo",
             "request": "launch",
             "mainClass": "DesafioTelefonia.verificarCombo",

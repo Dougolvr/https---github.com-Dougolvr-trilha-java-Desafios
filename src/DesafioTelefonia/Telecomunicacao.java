@@ -32,7 +32,7 @@ public class Telecomunicacao {
         }
 
         leitorEntrada.close();
-    }
+        }
 }
 
 
